@@ -15,4 +15,4 @@ def main(s):
             k += 1
         i += 1
     return k
-print(main('python 2022'))
+print(main('python 2023'))
